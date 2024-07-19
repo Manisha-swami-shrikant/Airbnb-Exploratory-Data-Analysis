@@ -46,8 +46,9 @@ Certainly! Here's how you can structure the README.md file to summarize the visu
 
 ### Chart - 1: Host count listings as per neighbourhood groups
 
-![Chart - 1](images/chart1.png)
-images/chart1.png
+
+![image](https://github.com/user-attachments/assets/00508b2a-bcec-467d-8ec9-e1ec93f0799e)
+
 
 **Insights:**
 - Manhattan has the highest number of host listings, while Staten Island has the least.
@@ -69,7 +70,8 @@ images/chart1.png
 
 ### Chart - 3: Pricing via Neighbourhood Groups (Strip Plot)
 
-![Chart - 3](images/chart3.png)
+![image](https://github.com/user-attachments/assets/a8c61c35-1174-48a0-8aa9-6deedfea1c28)
+
 
 **Insights:**
 - Majority of listings are priced below $2000.
@@ -80,7 +82,8 @@ images/chart1.png
 
 ### Chart - 4: Average price of listings in various Neighbourhoods (Line Plot)
 
-![Chart - 4](images/chart4.png)
+![image](https://github.com/user-attachments/assets/705af907-471b-4e80-9bbc-7b0237f7b9c3)
+
 
 **Insights:**
 - Clear comparison of average prices across neighbourhoods.
@@ -91,7 +94,8 @@ images/chart1.png
 
 ### Chart - 5: Average price of listings in various Neighbourhood groups (Line Plot)
 
-![Chart - 5](images/chart5.png)
+![image](https://github.com/user-attachments/assets/b09cc900-85ee-4c66-b87e-c654eb3a5aea)
+
 
 **Insights:**
 - Manhattan stands out with the highest average prices among neighbourhood groups.
@@ -102,7 +106,8 @@ images/chart1.png
 
 ### Chart - 6: Price of listings in various Neighbourhood groups (Scatter Plot)
 
-![Chart - 6](images/chart6.png)
+![image](https://github.com/user-attachments/assets/e05935a8-89a1-42bc-9dc1-45e0939b4ef0)
+
 
 **Insights:**
 - Majority of listings are priced below $2000, with notable outliers.
@@ -113,7 +118,8 @@ images/chart1.png
 
 ### Chart - 7: Price of listings in various Neighbourhoods (Scatter Plot)
 
-![Chart - 7](images/chart7.png)
+![image](https://github.com/user-attachments/assets/67664a73-e88c-446f-816e-57a8f582730b)
+
 
 **Insights:**
 - Similar insights as Chart 6 but focuses on individual neighbourhoods.
@@ -124,7 +130,8 @@ images/chart1.png
 
 ### Chart - 8: Pricing range of listings in neighbourhood groups (Box Plot)
 
-![Chart - 8](images/chart8.png)
+![image](https://github.com/user-attachments/assets/dc5f882a-24f4-4e3d-8f36-cd2834c05a5f)
+
 
 **Insights:**
 - Highlights the median pricing and distribution of listings within each neighbourhood group.
@@ -135,7 +142,8 @@ images/chart1.png
 
 ### Chart - 9: Pricing range of listings in neighbourhood groups (Box Plot with filtered price range)
 
-![Chart - 9](images/chart9.png)
+![image](https://github.com/user-attachments/assets/e5a3a50b-5dd0-4d50-ac44-63918b81a0f1)
+
 
 **Insights:**
 - Focuses on pricing distribution within neighbourhood groups, filtering out higher priced outliers.
