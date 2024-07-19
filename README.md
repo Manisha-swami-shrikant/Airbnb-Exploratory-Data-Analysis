@@ -1,8 +1,4 @@
-# Airbnb-Exploratory-Data-Analysis
-Certainly! Here's how you can structure your README.md file for your Airbnb dataset exploration project:
-
----
-
+# Airbnb-Exploratory-Data-Analys
 # Airbnb NYC 2019 Dataset Exploration
 
 ## Business Objective
