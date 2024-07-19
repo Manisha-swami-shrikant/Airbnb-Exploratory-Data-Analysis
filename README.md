@@ -1,5 +1,5 @@
 # Airbnb-Exploratory-Data-Analys
-# Airbnb NYC 2019 Dataset Exploration
+
 
 ## Business Objective
 The objective of this project is to perform Exploratory Data Analysis (EDA) on the Airbnb NYC 2019 dataset. This involves data cleaning, preprocessing, and using various exploratory techniques to extract meaningful insights and patterns.
@@ -47,6 +47,7 @@ Certainly! Here's how you can structure the README.md file to summarize the visu
 ### Chart - 1: Host count listings as per neighbourhood groups
 
 ![Chart - 1](images/chart1.png)
+images/chart1.png
 
 **Insights:**
 - Manhattan has the highest number of host listings, while Staten Island has the least.
@@ -56,8 +57,8 @@ Certainly! Here's how you can structure the README.md file to summarize the visu
 - Insights suggest potential opportunities for targeted marketing strategies and understanding regional popularity among hosts.
 
 ### Chart - 2: Top 10 neighbourhoods with highest host count listings (Pie Chart)
+![image](https://github.com/user-attachments/assets/1c676d11-e9c5-4086-a9ce-f09c3c70474a)
 
-![Chart - 2](images/chart2.png)
 
 **Insights:**
 - Williamsburg and Bedford-Stuyvesant lead with the highest number of listings.
